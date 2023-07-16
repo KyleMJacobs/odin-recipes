@@ -1,0 +1,64 @@
+/* style.css */
+
+body {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    color: #332E2E;
+}
+
+.img {
+    height: auto;
+    width: 400px;
+}
+
+.link {
+    font-size: smaller;
+}
+
+.link.main {
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: circle;
+    text-align: left;
+}
+
+ul.page-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: whitesmoke;
+    background-color: black;
+    font-weight: bolder;
+}
+
+#Home {
+    font-size: 50px;
+}
+
+ol {
+    list-style-type: upper-roman;
+    text-align: left;
+}
+
+p {
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+p, ul,
+ol {
+    font-size: large;
+}
+
+h3 {
+    font-style: italic;
+}
